@@ -6,6 +6,7 @@
 
 - [Digital Asset Manager](#digital-asset-manager)
 - [Publishing to Contentful](#publishing-to-contentful)
+- [Attaching to Figma Node](#attaching-to-figma-node)
 - [Contentful Settings](#contentful-settings)
 - [Contentful Image Content Type](#contentful-image-content-type)
 - [Contentful Management Token](#contentful-management-token)
@@ -24,7 +25,7 @@ __Production URL__: https://digitalassetmanager.app
 
 ## Digital Asset Manager
 
-[![Digital Asset Manager](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/bdc278693cc53c08f6a9b8337e9c75ab/Digital_Asset_Manager.png)](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/bdc278693cc53c08f6a9b8337e9c75ab/Digital_Asset_Manager.png "View Full Size")
+[![Digital Asset Manager](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/3dfe4edc9ed43a105870f08c0544d69e/Digital_Asset_Manager.png)](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/3dfe4edc9ed43a105870f08c0544d69e/Digital_Asset_Manager.png "View Full Size")
     
 Digital Asset Manager [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:327)
 
@@ -34,6 +35,13 @@ Digital Asset Manager [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs
 [![Publishing to Contentful](https://images.ctfassets.net/rtkhko6y3s3u/2RokQ0mSF7abpK6qqrvkH1/c5b30aa103151799a7584576a757fd21/Publishing_to_Contentful.png)](https://images.ctfassets.net/rtkhko6y3s3u/2RokQ0mSF7abpK6qqrvkH1/c5b30aa103151799a7584576a757fd21/Publishing_to_Contentful.png "View Full Size")
     
 Publishing to Contentful [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:446)
+
+
+## Attaching to Figma Node
+
+[![Attaching to Figma Node](https://images.ctfassets.net/rtkhko6y3s3u/eGhXgjwUw9sSQMWHGK8dQ/bddd13dbfcab501be29e99f2879237fe/Attaching_to_Figma_Node.png)](https://images.ctfassets.net/rtkhko6y3s3u/eGhXgjwUw9sSQMWHGK8dQ/bddd13dbfcab501be29e99f2879237fe/Attaching_to_Figma_Node.png "View Full Size")
+    
+Attaching to Figma Node [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=305:531)
 
 
 ## Contentful Settings
@@ -61,9 +69,9 @@ Contentful Management Token [source](https://www.figma.com/file/fdgg22P6rDRQl3rD
 
 *Dynamically built using contentful-readme-generator. Do not edit directly.*
 
-*__updated__: 3/7/2023, 3:43:38 PM*
+*__updated__: 3/7/2023, 3:58:09 PM*
 
-*__built__: 3/7/2023, 3:49:48 PM*
+*__built__: 3/7/2023, 3:58:18 PM*
 
 *__space__: rtkhko6y3s3u*
 

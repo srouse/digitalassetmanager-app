@@ -206,7 +206,7 @@ export default function renderHTML(content, css) {
               margin-right: var( --rds-spacing-1-6 )">
           </rds-icon-dam-widget>
           <div style="font: var( --rds-type-text-8 );">
-            Digital Asset Manager
+            Digital Asset Manager Figma/Contentful Widget
           </div>
         </div>
       </div>
