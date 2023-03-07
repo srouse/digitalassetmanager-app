@@ -4,6 +4,11 @@
   Content details in Build Information below.
 -->
 
+- [Digital Asset Manager](#digital-asset-manager)
+- [Publishing to Contentful](#publishing-to-contentful)
+- [Contentful Settings](#contentful-settings)
+- [Contentful Image Content Type](#contentful-image-content-type)
+- [Contentful Management Token](#contentful-management-token)
 - [Build Information](#build-information)
 
 ---
@@ -17,13 +22,48 @@ __Developer Emails__: scott.rouse@gmail.com
 
 __Production URL__: https://digitalassetmanager.app
 
+## Digital Asset Manager
+
+[![Digital Asset Manager](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/bdc278693cc53c08f6a9b8337e9c75ab/Digital_Asset_Manager.png)](https://images.ctfassets.net/rtkhko6y3s3u/13jGhOwlo0muEynR9bm8tU/bdc278693cc53c08f6a9b8337e9c75ab/Digital_Asset_Manager.png "View Full Size")
+    
+Digital Asset Manager [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:327)
+
+
+## Publishing to Contentful
+
+[![Publishing to Contentful](https://images.ctfassets.net/rtkhko6y3s3u/2RokQ0mSF7abpK6qqrvkH1/c5b30aa103151799a7584576a757fd21/Publishing_to_Contentful.png)](https://images.ctfassets.net/rtkhko6y3s3u/2RokQ0mSF7abpK6qqrvkH1/c5b30aa103151799a7584576a757fd21/Publishing_to_Contentful.png "View Full Size")
+    
+Publishing to Contentful [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:446)
+
+
+## Contentful Settings
+
+[![Contentful Settings](https://images.ctfassets.net/rtkhko6y3s3u/6cf7M0XwQkt8bnH7vcKaHL/63f6d07301c6c4f936bf129dba6adcde/Contentful_Settings.png)](https://images.ctfassets.net/rtkhko6y3s3u/6cf7M0XwQkt8bnH7vcKaHL/63f6d07301c6c4f936bf129dba6adcde/Contentful_Settings.png "View Full Size")
+    
+Contentful Settings [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:353)
+
+
+## Contentful Image Content Type
+
+[![Contentful Image Content Type](https://images.ctfassets.net/rtkhko6y3s3u/2fM3WUg2uVVlKJ0m1Do3qI/a2b5e74f6737ada4fc08c758e12e992f/Contentful_Image_Content_Type.png)](https://images.ctfassets.net/rtkhko6y3s3u/2fM3WUg2uVVlKJ0m1Do3qI/a2b5e74f6737ada4fc08c758e12e992f/Contentful_Image_Content_Type.png "View Full Size")
+    
+Contentful Image Content Type [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=303:503)
+
+
+## Contentful Management Token
+
+[![Contentful Management Token](https://images.ctfassets.net/rtkhko6y3s3u/6Nv7tZ6X8kMehE8yrl74yf/6f509e3c82540eeded73808e2371d5f5/Contentful_Management_Token.png)](https://images.ctfassets.net/rtkhko6y3s3u/6Nv7tZ6X8kMehE8yrl74yf/6f509e3c82540eeded73808e2371d5f5/Contentful_Management_Token.png "View Full Size")
+    
+Contentful Management Token [source](https://www.figma.com/file/fdgg22P6rDRQl3rDWl7RHs/?node-id=304:407)
+
+
 ## Build Information
 
 *Dynamically built using contentful-readme-generator. Do not edit directly.*
 
-*__updated__: 3/4/2023, 3:30:17 PM*
+*__updated__: 3/7/2023, 3:43:38 PM*
 
-*__built__: 3/4/2023, 3:32:48 PM*
+*__built__: 3/7/2023, 3:49:48 PM*
 
 *__space__: rtkhko6y3s3u*
 
